@@ -1,4 +1,4 @@
-package com.appsnado.mvvmapplication.views
+package com.appsnado.mvvmapplication.views.activities
 
 import android.os.Bundle
 import android.view.View
